@@ -44,9 +44,7 @@
     }
   ],
   "dependencies": {
-    "method": "~2.0.0"
-  },
-  "dependencies": {
+    "method": "~2.0.0",
     "reducible": "~1.0.6"
   }
 }
